@@ -21,16 +21,16 @@ This project analyzes these challenges using data-driven methods and presents ac
 
 ## Repository Structure
 
+```
 Reports/
-├── Proposal_Report.pdf //
-├── Midterm_Report.pdf //
-└── Final_Report.pdf //
+├── Proposal_Report.pdf
+├── Midterm_Report.pdf
+└── Final_Report.pdf
 
 Presentation/
-├── PPT_PPT.pptx //
-└── PPT_PDF.pdf //
-
-
+├── PPT_PPT.pptx
+└── PPT_PDF.pdf
+```
 
 ---
 
@@ -106,4 +106,5 @@ Used for the final viva voce evaluation.
 ## Note
 All data used in this project was shared strictly for academic purposes.  
 The analysis and recommendations are specific to this project and do not represent any endorsement by IIT Madras.
+
 
